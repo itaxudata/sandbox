@@ -1,3 +1,18 @@
 .main-3-div {
     background-color: rgb(239, 145, 145);
+    border: 2.5px;
+    height: 5vw;
+    border-color: black;
+    border-style: solid;
+
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    vertical-align: middle;
+}
+
+.h1-3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }

@@ -4,7 +4,7 @@ import React from 'react'
 const Component2 = () => {
   return (
     <div className='main-2-div'>
-        <h1>COMPONENT - 2</h1>
+        <h1 className='h1-2'>COMPONENT - 2</h1>
     </div>
   )
 }
