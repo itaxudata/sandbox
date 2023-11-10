@@ -1,0 +1,12 @@
+import './Component2.css'
+import React from 'react'
+
+const Component2 = () => {
+  return (
+    <div className='main-2-div'>
+        <h1>COMPONENT - 2</h1>
+    </div>
+  )
+}
+
+export default Component2
