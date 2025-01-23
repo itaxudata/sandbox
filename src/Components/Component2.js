@@ -6,7 +6,8 @@ const Component2 = () => {
     <div className='main-2-div'>
         <h1 className='h1-2'>COMPONENT - 2</h1>
         <br>
-        <a href="https://itaxudata.se">"itaxudata.se"</a>
+        <a href="https://itaxudata.se" target="_blank" rel="noopener noreferrer">
+      itaxudata.se</a>
     </div>
   )
 }
