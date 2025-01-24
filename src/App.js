@@ -8,6 +8,8 @@ function App() {
     <div className="App">
       {/* <h1>APP COMPONENT</h1> */}
       <Component1/>
+    <a href="https://itaxudata.se">
+      itaxudata.se</a>
       <Component2/>
       <Component3/>
     </div>
